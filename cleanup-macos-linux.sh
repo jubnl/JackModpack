@@ -20,4 +20,3 @@ rm -rf ./5_legendary_challenges
 rm -rf ./Betmma_Jokers
 rm -rf ./SilverSeal
 rm -rf ./Steamo
-rm -rf ./FiveOfAFlush

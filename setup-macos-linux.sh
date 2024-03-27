@@ -55,12 +55,5 @@ cp -r ModsRepos/SilverSeal .
 
 # Install Steamo's mods
 mkdir -p Steamo
-cp ./Steamodded/example_mods/AbsoluteDeck.lua ./Steamo
-cp ./Steamodded/example_mods/DeckOf4s.lua ./Steamo
 cp ./Steamodded/example_mods/EscapeExitButton.lua ./Steamo
-cp ./Steamodded/example_mods/LabyrinthDeck.lua ./Steamo
 cp ./Steamodded/example_mods/MoreSpeeds.lua ./Steamo
-cp ./Steamodded/example_mods/UltimateRandom.lua ./Steamo
-cp ./Steamodded/example_mods/AchievementsEnabler.lua ./Steamo
-
-cp -r ./Steamodded/example_mods/FiveOfAFlush .

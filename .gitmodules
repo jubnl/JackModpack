@@ -16,9 +16,6 @@
 [submodule "Steamodded"]
 	path = Steamodded
 	url = https://github.com/Steamopollys/Steamodded.git
-[submodule "ModsRepos/BadAppleBalatro"]
-	path = ModsRepos/BadAppleBalatro
-	url = https://github.com/jamesthejellyfish/BadAppleBalatro.git
 [submodule "ModsRepos/my_balatro_mods"]
 	path = ModsRepos/my_balatro_mods
 	url = https://github.com/betmma/my_balatro_mods.git
