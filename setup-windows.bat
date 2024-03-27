@@ -29,6 +29,7 @@ xcopy /E /I ".\ModsRepos\JankJonklers" ".\JankJonklers"
 
 REM Install JellyMod
 xcopy /E /I ".\ModsRepos\JellyMod" ".\JellyMod"
+del ".\JellyMod\JellyJokers.lua"
 
 REM Install Jimbos-Histories
 xcopy /E /I ".\ModsRepos\Jimbos-Histories" ".\Jimbos-Histories"
@@ -57,3 +58,13 @@ REM Install Steamo's mods
 if not exist "Steamo" mkdir "Steamo"
 copy ".\Steamodded\example_mods\EscapeExitButton.lua" ".\Steamo"
 copy ".\Steamodded\example_mods\MoreSpeeds.lua" ".\Steamo"
+
+REM Install Balatro---Themed-Jokers
+xcopy /E /I ".\ModsRepos\Balatro---Themed-Jokers" ".\Balatro---Themed-Jokers"
+
+REM Install SylvieSilly's mod
+xcopy /E /I ".\ModsRepos\SylvieSilly" ".\SylvieSilly"
+
+REM Install FederAPI-Balatro
+xcopy /E /I ".\ModsRepos\FederAPI-Balatro" ".\FederAPI-Balatro"
+

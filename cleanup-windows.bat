@@ -20,3 +20,7 @@ rd /s /q ".\5_legendary_challenges"
 rd /s /q ".\Betmma_Jokers"
 rd /s /q ".\SilverSeal"
 rd /s /q ".\Steamo"
+rd /s /q ".\Balatro---Themed-Jokers"
+rd /s /q ".\SylvieSilly"
+rd /s /q ".\FederAPI-Balatro"
+

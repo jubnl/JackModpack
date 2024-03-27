@@ -30,6 +30,8 @@ cp -r ./ModsRepos/JankJonklers .
 
 # Install JellyMod
 cp -r ./ModsRepos/JellyMod .
+# This mod does not work properly with the other mods
+rm -f ./JellyMod/JellyJokers.lua
 
 # Install Jimbos-Histories
 cp -r ./ModsRepos/Jimbos-Histories .
@@ -57,3 +59,12 @@ cp -r ModsRepos/SilverSeal .
 mkdir -p Steamo
 cp ./Steamodded/example_mods/EscapeExitButton.lua ./Steamo
 cp ./Steamodded/example_mods/MoreSpeeds.lua ./Steamo
+
+# Install Balatro---Themed-Jokers
+cp -r ./ModsRepos/Balatro---Themed-Jokers .
+
+# Install SylvieSilly's mod
+cp -r ./ModsRepos/SylvieSilly .
+
+# Install FederAPI-Balatro
+cp -r ./ModsRepos/FederAPI-Balatro .

@@ -46,3 +46,12 @@
 [submodule "ModsRepos/Balatro_CardBackInjection"]
 	path = ModsRepos/Balatro_CardBackInjection
 	url = https://github.com/Ken-Shi/Balatro_CardBackInjection.git
+[submodule "ModsRepos/Balatro---Themed-Jokers"]
+	path = ModsRepos/Balatro---Themed-Jokers
+	url = https://github.com/BlizzowX/Balatro---Themed-Jokers
+[submodule "ModsRepos/SylvieSilly"]
+	path = ModsRepos/SylvieSilly
+	url = https://github.com/NewtTheFish/SylvieSilly
+[submodule "ModsRepos/FederAPI-Balatro"]
+	path = ModsRepos/FederAPI-Balatro
+	url = https://github.com/itayfeder/FederAPI-Balatro
