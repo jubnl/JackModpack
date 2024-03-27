@@ -1,0 +1,51 @@
+[submodule "ModsRepos/MikasBalatro"]
+	path = ModsRepos/MikasBalatro
+	url = https://github.com/MikaSchoenmakers/MikasBalatro.git
+[submodule "ModsRepos/Better-Mouse-And-Gamepad"]
+	path = ModsRepos/Better-Mouse-And-Gamepad
+	url = https://github.com/Kooluve/Better-Mouse-And-Gamepad.git
+[submodule "ModsRepos/Balatro_CollectionFix"]
+	path = ModsRepos/Balatro_CollectionFix
+	url = https://github.com/GoldenEpsilon/Balatro_CollectionFix.git
+[submodule "ModsRepos/Balatro-Preview"]
+	path = ModsRepos/Balatro-Preview
+	url = https://github.com/DivvyCr/Balatro-Preview.git
+[submodule "ModsRepos/Jimbos-Histories"]
+	path = ModsRepos/Jimbos-Histories
+	url = https://github.com/Mi1cK/Jimbos-Histories.git
+[submodule "Steamodded"]
+	path = Steamodded
+	url = https://github.com/Steamopollys/Steamodded.git
+[submodule "ModsRepos/BadAppleBalatro"]
+	path = ModsRepos/BadAppleBalatro
+	url = https://github.com/jamesthejellyfish/BadAppleBalatro.git
+[submodule "ModsRepos/my_balatro_mods"]
+	path = ModsRepos/my_balatro_mods
+	url = https://github.com/betmma/my_balatro_mods.git
+[submodule "ModsRepos/JankJonklers"]
+	path = ModsRepos/JankJonklers
+	url = https://github.com/spikeof2010/JankJonklers.git
+[submodule "ModsRepos/JellyMod"]
+	path = ModsRepos/JellyMod
+	url = https://github.com/jamesthejellyfish/JellyMod.git
+[submodule "ModsRepos/LushMod"]
+	path = ModsRepos/LushMod
+	url = https://github.com/lusciousdev/LushMod.git
+[submodule "ModsRepos/MoreFluff"]
+	path = ModsRepos/MoreFluff
+	url = https://github.com/notmario/MoreFluff.git
+[submodule "ModsRepos/multi-jokers"]
+	path = ModsRepos/multi-jokers
+	url = https://github.com/iJohnMaged/multi-jokers.git
+[submodule "ModsRepos/BalatroMods"]
+	path = ModsRepos/BalatroMods
+	url = https://github.com/Mysthaps/BalatroMods.git
+[submodule "ModsRepos/SilverSeal"]
+	path = ModsRepos/SilverSeal
+	url = https://github.com/mwithington/SilverSeal.git
+[submodule "ModsRepos/GreenSeal"]
+	path = ModsRepos/GreenSeal
+	url = https://github.com/AxBolduc/GreenSeal.git
+[submodule "ModsRepos/Balatro_CardBackInjection"]
+	path = ModsRepos/Balatro_CardBackInjection
+	url = https://github.com/Ken-Shi/Balatro_CardBackInjection.git
