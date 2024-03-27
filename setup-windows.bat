@@ -51,3 +51,15 @@ xcopy /E /I ".\ModsRepos\my_balatro_mods\Betmma_Jokers" ".\Betmma_Jokers"
 
 REM Install SilverSeal
 xcopy /E /I ".\ModsRepos\SilverSeal" ".\SilverSeal"
+
+
+REM Install Steamo's mods
+if not exist "Steamo" mkdir "Steamo"
+copy ".\Steamodded\example_mods\AbsoluteDeck.lua" ".\Steamo"
+copy ".\Steamodded\example_mods\DeckOf4s.lua" ".\Steamo"
+copy ".\Steamodded\example_mods\EscapeExitButton.lua" ".\Steamo"
+copy ".\Steamodded\example_mods\LabyrinthDeck.lua" ".\Steamo"
+copy ".\Steamodded\example_mods\MoreSpeeds.lua" ".\Steamo"
+copy ".\Steamodded\example_mods\UltimateRandom.lua" ".\Steamo"
+copy ".\Steamodded\example_mods\AchievementsEnabler.lua" ".\Steamo"
+xcopy /E /I ".\Steamodded\example_mods\FiveOfAFlush" ".\FiveOfAFlush"

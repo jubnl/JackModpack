@@ -47,8 +47,20 @@ cp -r ./ModsRepos/MoreFluff .
 cp -r ./ModsRepos/multi-jokers .
 
 # Install my_balatro_mods/5_legendary_challenges
-cp -r ModsRepos/my_balatro_mods/5_legendary_challenges .
-cp -r ModsRepos/my_balatro_mods/Betmma_Jokers .
+cp -r ./ModsRepos/my_balatro_mods/5_legendary_challenges .
+cp -r ./ModsRepos/my_balatro_mods/Betmma_Jokers .
 
 # Install SilverSeal
 cp -r ModsRepos/SilverSeal .
+
+# Install Steamo's mods
+mkdir -p Steamo
+cp ./Steamodded/example_mods/AbsoluteDeck.lua ./Steamo
+cp ./Steamodded/example_mods/DeckOf4s.lua ./Steamo
+cp ./Steamodded/example_mods/EscapeExitButton.lua ./Steamo
+cp ./Steamodded/example_mods/LabyrinthDeck.lua ./Steamo
+cp ./Steamodded/example_mods/MoreSpeeds.lua ./Steamo
+cp ./Steamodded/example_mods/UltimateRandom.lua ./Steamo
+cp ./Steamodded/example_mods/AchievementsEnabler.lua ./Steamo
+
+cp -r ./Steamodded/example_mods/FiveOfAFlush .
