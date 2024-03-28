@@ -55,6 +55,8 @@ Your folder should now look like this:
 ## Disable a mod
 To disable a mod, go to the copied Mods folder and delete the corresponding mod folder at the root of the Mods folder.
 
+# Agreement from the modders
+You can find links to the modders agreement to be featured in this modpack in the [agreements file](./agreements/agreements.txt)
 
 # Mod list
 - [Steamodded](https://github.com/Steamopollys/Steamodded) - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
