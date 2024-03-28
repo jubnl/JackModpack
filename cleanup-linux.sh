@@ -13,7 +13,7 @@ rm -rf ./JankJonklers
 rm -rf ./JellyMod
 rm -rf ./Jimbos-Histories
 rm -rf ./LushMod
-rm -rf ./MoreFluff
+#rm -rf ./MoreFluff
 rm -rf ./multi-jokers
 rm -rf ./5_legendary_challenges
 rm -rf ./Betmma_Jokers
