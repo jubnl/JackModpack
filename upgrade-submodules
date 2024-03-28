@@ -1,0 +1,57 @@
+#!/usr/bin/env sh
+
+cd Steamodded || exit 1
+git checkout main
+git pull
+cd ../ModsRepos/Balatro---Themed-Jokers || exit 1
+git checkout main
+git pull
+cd ../Balatro-Preview || exit 1
+git checkout main
+git pull
+cd ../Balatro_CardBackInjection || exit 1
+git checkout main
+git pull
+cd ../BalatroMods || exit 1
+git checkout main
+git pull
+cd ../Better-Mouse-And-Gamepad || exit 1
+git checkout main
+git pull
+cd ../FederAPI-Balatro || exit 1
+git checkout main
+git pull
+cd ../GreenSeal || exit 1
+git checkout main
+git pull
+cd ../JankJonklers || exit 1
+git checkout main
+git pull
+cd ../JellyMod || exit 1
+git checkout main
+git pull
+cd ../Jimbos-Histories || exit 1
+git checkout main
+git pull
+cd ../LushMod || exit 1
+git checkout main
+git pull
+cd ../MikasBalatro || exit 1
+git checkout main
+git pull
+cd ../MoreFluff || exit 1
+git checkout main
+git pull
+cd ../multi-jokers || exit 1
+git checkout main
+git pull
+cd ../my_balatro_mods || exit 1
+git checkout main
+git pull
+cd ../SilverSeal || exit 1
+git checkout main
+git pull
+cd ../SylvieSilly || exit 1
+git checkout main
+git pull
+cd ../..
