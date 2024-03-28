@@ -77,3 +77,5 @@ To disable a mod, go to the copied Mods folder and delete the corresponding mod 
 - [Themed Jokers](https://github.com/BlizzowX/Balatro---Themed-Jokers) - A bunch of themed Jokers. *WIP*. by [@Blizzow](https://github.com/BlizzowX)
 - [Sylvie's Silliness](https://github.com/NewtTheFish/SylvieSilly) - A few decks, jokers, etc. Have fun! by [@NewtTheFish](https://github.com/NewtTheFish)
 - [FederAPI](https://github.com/itayfeder/FederAPI-Balatro) - An API library mod that allows to register vouchers, blinds, tarots, sounds, etc. by [@itayfeder](https://github.com/itayfeder)
+
+### Thanks a lot to [@jie65535](https://github.com/jie65535)'s [Mod list](https://github.com/jie65535/awesome-balatro)!
