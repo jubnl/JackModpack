@@ -40,8 +40,8 @@ cp -r ./ModsRepos/LushMod .
 cp -r ./ModsRepos/MikasBalatro .
 
 # Install MoreFluff
-cp -r ./ModsRepos/MoreFluff .
-cp -f ./jacksmodpack/patch/MoreFluff/MoreFluff.lua ./MoreFluff
+#cp -r ./ModsRepos/MoreFluff .
+#cp -f ./jacksmodpack/patch/MoreFluff/MoreFluff.lua ./MoreFluff
 
 # Install Multi-Jokers
 cp -r ./ModsRepos/multi-jokers .
