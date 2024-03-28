@@ -1,8 +1,5 @@
 #!/usr/bin/env sh
 
-# Install BadAppleBalatro
-cp -r ./ModsRepos/BadAppleBalatro .
-
 # Install Balatro-Preview
 mkdir -p Balatro-Preview
 cp -r ./ModsRepos/Balatro-Preview/Mods/* ./Balatro-Preview

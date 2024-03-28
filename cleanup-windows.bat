@@ -1,7 +1,6 @@
 @echo off
 REM Remove directories
 rd /s /q ".\MikasBalatro"
-rd /s /q ".\BadAppleBalatro"
 rd /s /q ".\Balatro-Preview"
 rd /s /q ".\CardBackInjection"
 rd /s /q ".\Balatro_CollectionFix"

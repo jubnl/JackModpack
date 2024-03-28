@@ -1,7 +1,6 @@
 #!/usr/bin/env sh
 
 rm -rf ./MikasBalatro
-rm -rf ./BadAppleBalatro
 rm -rf ./Balatro-Preview
 rm -rf ./CardBackInjection
 rm -rf ./Balatro_CollectionFix

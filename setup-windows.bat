@@ -1,6 +1,4 @@
 @echo off
-REM Install BadAppleBalatro
-xcopy /E /I ".\ModsRepos\BadAppleBalatro" ".\BadAppleBalatro"
 
 REM Install Balatro-Preview
 if not exist "Balatro-Preview" mkdir "Balatro-Preview"
