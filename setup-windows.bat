@@ -40,6 +40,7 @@ xcopy /E /I ".\ModsRepos\MikasBalatro" ".\MikasBalatro"
 
 REM Install MoreFluff
 xcopy /E /I ".\ModsRepos\MoreFluff" ".\MoreFluff"
+copy /Y ".\jacksmodpack\patch\MoreFluff\MoreFluff.lua" ".\MoreFluff"
 
 REM Install Multi-Jokers
 xcopy /E /I ".\ModsRepos\multi-jokers" ".\multi-jokers"

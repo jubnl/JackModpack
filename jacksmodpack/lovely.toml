@@ -38,3 +38,12 @@ payload='''UIBox({
 })'''
 match_indent = true
 overwrite = false
+
+[[patches]]
+[patches.pattern]
+target = "main.lua"
+pattern = "if depth > 3 then"
+position = "at"
+payload = "if depth > 2 then"
+match_indent = true
+overwrite = true
