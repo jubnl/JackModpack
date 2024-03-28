@@ -1,0 +1,13 @@
+[manifest]
+version = "1.0.0"
+dump_lua = true
+priority = 1
+
+[[patches]]
+[patches.pattern]
+target = "main.lua"
+pattern = "gameMainMenuRef(arg_280_0, arg_280_1)"
+position = "after"
+payload = "UIBox({definition={n=G.UIT.ROOT,config={align=\"cm\",colour=G.C.UI.TRANSPARENT_DARK},nodes={{n=G.UIT.T,config={scale=0.3,text=\"Jack's Modpack v0.0.1\",colour=G.C.UI.TEXT_LIGHT}}}},config={align=\"tri\",bond=\"Weak\",offset={x=0,y=0.6},major=G.ROOM_ATTACH}})"
+match_indent = true
+overwrite = false

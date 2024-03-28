@@ -10,38 +10,25 @@
 
 You'll need git ([Windows](https://git-scm.com/download/win), [Linux](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)) installed on your machine to install the modpack.
 
-1. Clone the repository with the following command in a CMD prompt (for Windows) or a bash/any shell for linux
+### Windows installation script
 ```shell
-# with ssh
-git clone git@github.com:jubnl/Jacks-Balatro-Modpack.git --recurse-submodules Mods
-
-# with https
 git clone https://github.com/jubnl/Jacks-Balatro-Modpack.git --recurse-submodules Mods
-```
-
-2. Execute the setup script
-```shell
 cd Mods
-
-# Windows
 setup-windows.bat
-
-# Linux
-./setup-linux.sh
+cd ..
+xcopy ".\Mods" "%appdata%\Balatro\Mods" /E /H /C /I
 ```
 
-3. Copy the Mods folder to the right place
+### Linux installation script
 ```shell
+git clone https://github.com/jubnl/Jacks-Balatro-Modpack.git --recurse-submodules Mods
+cd Mods
+./setup-linux.sh
 cd ..
-
-# Windows
-xcopy ".\Mods" "%appdata%\Balatro\Mods" /E /H /C /I
-
-# Linux
 cp -r ./Mods /home/$USER/.local/share/Steam/steamapps/compatdata/2379780/pfx/drive_c/users/steamuser/AppData/Roaming/Balatro
 ```
 
-4. Add a file to your Balatro installation
+### Install [Lovely Injector](https://github.com/ethangreen-dev/lovely-injector)
 Find the latest release of the [Lovely-Injector](https://github.com/ethangreen-dev/lovely-injector/releases) and download
 the file called `dwmapi.dll`. Once downloaded, put this file in the same folder as Balatro.exe.\
 To find where the executable is stored you can click here:
@@ -49,8 +36,17 @@ To find where the executable is stored you can click here:
 Your folder should now look like this:
 ![fs.png](./screenshots/fs.png)
 
-5. You can now launch Balatro ! Enjoy !
 
+You can now launch Balatro ! Enjoy !
+
+## Update the modpack
+
+### Windows
+```shell
+cd Mods
+upgrade-windows.bat
+
+```
 
 ## Disable a mod
 To disable a mod, go to the copied Mods folder and delete the corresponding mod folder at the root of the Mods folder.
