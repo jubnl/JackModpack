@@ -24,7 +24,7 @@ git clone https://github.com/jubnl/Jacks-Balatro-Modpack.git --recurse-submodule
 cd Mods
 
 # Windows
-setup-windows-bat
+setup-windows.bat
 
 # Linux
 ./setup-linux.sh
