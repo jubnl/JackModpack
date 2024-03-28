@@ -78,4 +78,4 @@ To disable a mod, go to the copied Mods folder and delete the corresponding mod 
 - [Sylvie's Silliness](https://github.com/NewtTheFish/SylvieSilly) - A few decks, jokers, etc. Have fun! by [@NewtTheFish](https://github.com/NewtTheFish)
 - [FederAPI](https://github.com/itayfeder/FederAPI-Balatro) - An API library mod that allows to register vouchers, blinds, tarots, sounds, etc. by [@itayfeder](https://github.com/itayfeder)
 
-### Thanks a lot to [@jie65535](https://github.com/jie65535)'s [Mod list](https://github.com/jie65535/awesome-balatro)!
+### Thanks a lot to [@jie65535](https://github.com/jie65535) for your [Mod list](https://github.com/jie65535/awesome-balatro)!
