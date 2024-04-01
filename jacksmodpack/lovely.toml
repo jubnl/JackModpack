@@ -20,7 +20,7 @@ payload='''UIBox({
                 n = G.UIT.T,
                 config = {
                     scale = 0.3,
-                    text = "Jack's Modpack v1.0.1",
+                    text = "Jack's Modpack v1.1.0",
                     colour = G.C.UI.TEXT_LIGHT
                 }
             }
