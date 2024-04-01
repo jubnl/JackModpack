@@ -8,7 +8,8 @@ priority = 1
 target = "main.lua"
 pattern = "gameMainMenuRef(arg_280_0, arg_280_1)"
 position = "after"
-payload='''UIBox({
+payload='''local JACKS_MODPACK_VERSION = "1.1.0"
+UIBox({
     definition = {
         n = G.UIT.ROOT,
         config = {
@@ -20,7 +21,7 @@ payload='''UIBox({
                 n = G.UIT.T,
                 config = {
                     scale = 0.3,
-                    text = "Jack's Modpack v1.1.0",
+                    text = "Jack's Modpack v" .. JACKS_MODPACK_VERSION,
                     colour = G.C.UI.TEXT_LIGHT
                 }
             }
